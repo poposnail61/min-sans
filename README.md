@@ -4,14 +4,12 @@
 
 ### 다운로드
 
----
 
 🔗 [Min Sans 다운로드](https://github.com/poposnail61/MinSans/releases/download/v1.0/MinSans-v1.0.zip)
 <br><br>
 
 ### Overview
 
-----
 
 Noto Sans의 불편한 점을 해결하기 위해 시작된 사이드 프로젝트이며, Noto Sans와 Nunito Sans의 커스텀 글꼴입니다.
 
