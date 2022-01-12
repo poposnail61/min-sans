@@ -32,7 +32,7 @@ Noto Sans의 불편한 점을 해결하기 위해 시작된 사이드 프로젝�
 <img src="https://jinseong-kim.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3aea52f8-d244-4733-9728-569cb5bfcb19%2FFrame_13.jpg?table=block&id=7b93bf7b-0a26-4f17-9ba4-ba930ffede0c&spaceId=2cea1c53-c530-4c16-8278-e864a969bea2&width=2000&userId=&cache=v2">
 <br><br>
 <img src="https://jinseong-kim.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8f5959d9-97cc-4b86-9ab7-49c880bf820f%2FFrame_12.jpg?table=block&id=905fc24e-5f50-424a-8e8c-9c0da3f4aef4&spaceId=2cea1c53-c530-4c16-8278-e864a969bea2&width=2000&userId=&cache=v2">
-<br><br>
+<br>
 
 ### 라이선스
 
