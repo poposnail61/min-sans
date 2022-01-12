@@ -19,6 +19,13 @@ Noto Sans의 불편한 점을 해결하기 위해 시작된 사이드 프로젝�
 - 사용성이 높은 6개의 폰트패밀리로 구성
 - CJK문자 및 라틴계열 문자 세트 지원
 <br><br>
+
+### 다운로드
+
+---
+
+🔗 [Min Sans 다운로드](https://github.com/poposnail61/MinSans/releases/download/v1.0/MinSans-v1.0.zip)
+<br><br>
 <img src="https://github.com/poposnail61/MinSans/blob/main/img01.jpg?raw=true">
 <img src="https://github.com/poposnail61/MinSans/blob/main/img02.jpg?raw=true">
 <br><br>
