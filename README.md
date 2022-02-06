@@ -1,8 +1,5 @@
 # MinSans
 
-프로덕트에 적합한 폰트를 만들어가고 있습니다.<br><br><br>
-
-### 다운로드
 
 
 🔗 **[Min Sans 다운로드](https://github.com/poposnail61/MinSans/releases/download/v1.0/MinSans-v1.0.zip)**
