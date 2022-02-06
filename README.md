@@ -6,7 +6,11 @@
 
 
 🔗 [Min Sans 다운로드](https://github.com/poposnail61/MinSans/releases/download/v1.0/MinSans-v1.0.zip)
+<br>
+✏️ **[Min Sans 써보기](https://poposnail61.github.io/write/)**
 <br><br>
+
+
 
 ### Overview
 
