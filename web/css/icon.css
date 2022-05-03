@@ -1,0 +1,154 @@
+
+/* 아이콘 스타일 변경 */
+i.fill {font-feature-settings: 'ss09' on;}
+i.spin {
+  animation-name: spin;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+/* 아이콘 굵기 */
+i.iThin {font-weight: 100;}
+i.iLight {font-weight: 250;}
+i.iRegular {font-weight: 400;}
+i.iMedium {font-weight: 550;}
+i.iBold {font-weight: 700;}
+i.iBlack {font-weight: 900;}
+
+
+/* 아이콘 */
+i.iError::before {vertical-align: top; content: '\E000';}
+i.iFastForward::before {vertical-align: top; content: '\E01F';}
+i.iFastRewind::before {vertical-align: top; content: '\E020';}
+i.iPause::before {vertical-align: top; content: '\E034';}
+i.iPlayArrow::before {vertical-align: top; content: '\E037';}
+i.iSkipNext::before {vertical-align: top; content: '\E044';}
+i.iSkipPrevious::before {vertical-align: top; content: '\E045';}
+i.iStop::before {vertical-align: top; content: '\E047';}
+i.iVideocam::before {vertical-align: top; content: '\E04B';}
+i.iCall::before {vertical-align: top; content: '\E0B0';}
+i.iChatBubble::before {vertical-align: top; content: '\E0CA';}
+i.iAdd::before {vertical-align: top; content: '\E145';}
+i.iAddCircle::before {vertical-align: top; content: '\E147';}
+i.iContentCopy::before {vertical-align: top; content: '\E14D';}
+i.iDrafts::before {vertical-align: top; content: '\E151';}
+i.iForward::before {vertical-align: top; content: '\E154';}
+i.iInbox::before {vertical-align: top; content: '\E156';}
+i.iLink::before {vertical-align: top; content: '\E157';}
+i.iMail::before {vertical-align: top; content: '\E158';}
+i.iRedo::before {vertical-align: top; content: '\E15A';}
+i.iRemove::before {vertical-align: top; content: '\E15B';}
+i.iRemoveCircle::before {vertical-align: top; content: '\E15C';}
+i.iReply::before {vertical-align: top; content: '\E15E';}
+i.iSend::before {vertical-align: top; content: '\E163';}
+i.iUndo::before {vertical-align: top; content: '\E166';}
+i.iPauseCircle::before {vertical-align: top; content: '\E1A2';}
+i.iPlayCircle::before {vertical-align: top; content: '\E1C4';}
+i.iFormatAlignCenter::before {vertical-align: top; content: '\E234';}
+i.iFormatAlignJustify::before {vertical-align: top; content: '\E235';}
+i.iFormatAlignLeft::before {vertical-align: top; content: '\E236';}
+i.iFormatAlignRight::before {vertical-align: top; content: '\E237';}
+i.iFormatBold::before {vertical-align: top; content: '\E238';}
+i.iFormatItalic::before {vertical-align: top; content: '\E23F';}
+i.iFormatSize::before {vertical-align: top; content: '\E245';}
+i.iFormatStrikethrough::before {vertical-align: top; content: '\E246';}
+i.iFormatUnderlined::before {vertical-align: top; content: '\E249';}
+i.iTitle::before {vertical-align: top; content: '\E264';}
+i.iFolder::before {vertical-align: top; content: '\E2C7';}
+i.iKeyboardArrowDown::before {vertical-align: top; content: '\E313';}
+i.iKeyboardArrowLeft::before {vertical-align: top; content: '\E314';}
+i.iKeyboardArrowRight::before {vertical-align: top; content: '\E315';}
+i.iKeyboardArrowUp::before {vertical-align: top; content: '\E316';}
+i.iEdit::before {vertical-align: top; content: '\E3C9';}
+i.iImage::before {vertical-align: top; content: '\E3F4';}
+i.iPhotoCamera::before {vertical-align: top; content: '\E412';}
+i.iTimer::before {vertical-align: top; content: '\E425';}
+i.iLocalShipping::before {vertical-align: top; content: '\E558';}
+i.iApps::before {vertical-align: top; content: '\E5C3';}
+i.iArrowBack::before {vertical-align: top; content: '\E5C4';}
+i.iArrowDropDown::before {vertical-align: top; content: '\E5C5';}
+i.iArrowDropUp::before {vertical-align: top; content: '\E5C7';}
+i.iArrowForward::before {vertical-align: top; content: '\E5C8';}
+i.iCancel::before {vertical-align: top; content: '\E5C9';}
+i.iClose::before {vertical-align: top; content: '\E5CD';}
+i.iMenu::before {vertical-align: top; content: '\E5D2';}
+i.iMoreHoriz::before {vertical-align: top; content: '\E5D3';}
+i.iMoreVert::before {vertical-align: top; content: '\E5D4';}
+i.iRefresh::before {vertical-align: top; content: '\E5D5';}
+i.iArrowUpward::before {vertical-align: top; content: '\E5D8';}
+i.iArrowDownward::before {vertical-align: top; content: '\E5DB';}
+i.iEventAvailable::before {vertical-align: top; content: '\E614';}
+i.iEventBusy::before {vertical-align: top; content: '\E615';}
+i.iEventNote::before {vertical-align: top; content: '\E616';}
+i.iSms::before {vertical-align: top; content: '\E625';}
+i.iSync::before {vertical-align: top; content: '\E627';}
+i.iDraft::before {vertical-align: top; content: '\E66D';}
+i.iArrowShare::before {vertical-align: top; content: '\E6B8';}
+i.iExpandCircleUp::before {vertical-align: top; content: '\E7CC';}
+i.iExpandCircleDown::before {vertical-align: top; content: '\E7CD';}
+i.iNotifications::before {vertical-align: top; content: '\E7F4';}
+i.iPerson::before {vertical-align: top; content: '\E7FD';}
+i.iPersonAdd::before {vertical-align: top; content: '\E7FE';}
+i.iShare::before {vertical-align: top; content: '\E80D';}
+i.iCheckBox::before {vertical-align: top; content: '\E834';}
+i.iCheckBoxBlank::before {vertical-align: top; content: '\E835';}
+i.iRadioButtonUnchecked::before {vertical-align: top; content: '\E836';}
+i.iRadioButtonChecked::before {vertical-align: top; content: '\E837';}
+i.iStar::before {vertical-align: top; content: '\E838';}
+i.iStarHalf::before {vertical-align: top; content: '\E839';}
+i.iAccountCircle::before {vertical-align: top; content: '\E853';}
+i.iAlarm::before {vertical-align: top; content: '\E855';}
+i.iAlarmAdd::before {vertical-align: top; content: '\E856';}
+i.iAlarmOn::before {vertical-align: top; content: '\E858';}
+i.iBookmark::before {vertical-align: top; content: '\E866';}
+i.iCheckCircle::before {vertical-align: top; content: '\E86C';}
+i.iDelete::before {vertical-align: top; content: '\E872';}
+i.iDone::before {vertical-align: top; content: '\E876';}
+i.iEvent::before {vertical-align: top; content: '\E878';}
+i.iFavorite::before {vertical-align: top; content: '\E87D';}
+i.iHelp::before {vertical-align: top; content: '\E887';}
+i.iHome::before {vertical-align: top; content: '\E88A';}
+i.iInfo::before {vertical-align: top; content: '\E88E';}
+i.iLanguage::before {vertical-align: top; content: '\E894';}
+i.iList::before {vertical-align: top; content: '\E896';}
+i.iLock::before {vertical-align: top; content: '\E897';}
+i.iLockOpen::before {vertical-align: top; content: '\E898';}
+i.iOpenInNew::before {vertical-align: top; content: '\E89E';}
+i.iSchedule::before {vertical-align: top; content: '\E8B5';}
+i.iSearch::before {vertical-align: top; content: '\E8B6';}
+i.iSetting::before {vertical-align: top; content: '\E8B8';}
+i.iShoppingCart::before {vertical-align: top; content: '\E8CC';}
+i.iThumbDown::before {vertical-align: top; content: '\E8DB';}
+i.iThumbUp::before {vertical-align: top; content: '\E8DC';}
+i.iZoomIn::before {vertical-align: top; content: '\E8FF';}
+i.iZoomOut::before {vertical-align: top; content: '\E900';}
+i.iIndeterminateCheckBox::before {vertical-align: top; content: '\E909';}
+i.iFingerprint::before {vertical-align: top; content: '\E90D';}
+i.iDateRange::before {vertical-align: top; content: '\E916';}
+i.iUpdate::before {vertical-align: top; content: '\E923';}
+i.iCalendarToday::before {vertical-align: top; content: '\E935';}
+i.iKeyboardDoubleArrowLeft::before {vertical-align: top; content: '\EAC3';}
+i.iKeyboardDoubleArrowRight::before {vertical-align: top; content: '\EAC9';}
+i.iKeyboardDoubleArrowUp::before {vertical-align: top; content: '\EACF';}
+i.iKeyboardDoubleArrowDown::before {vertical-align: top; content: '\EAD0';}
+i.iSquare::before {vertical-align: top; content: '\EB36';}
+i.iCircle::before {vertical-align: top; content: '\EF4A';}
+i.iPending::before {vertical-align: top; content: '\EF64';}
+i.iStopCircle::before {vertical-align: top; content: '\EF71';}
+i.iDownload::before {vertical-align: top; content: '\F090';}
+i.iUpload::before {vertical-align: top; content: '\F09B';}
+i.iShoppingBag::before {vertical-align: top; content: '\F1CC';}
+i.iOpenInFull::before {vertical-align: top; content: '\F1CE';}
+i.iCloseFullscreen::before {vertical-align: top; content: '\F1CF';}
+i.iFaceId::before {vertical-align: top; content: '\F1ED';}

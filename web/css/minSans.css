@@ -1,0 +1,49 @@
+
+@font-face {
+    font-family: 'Min Sans VF';
+    src: url('../fonts/variable/MinSansVF.woff2') format('woff2'),
+    url('../fonts/variable/MinSansVF.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Min Sans';
+    font-weight: 900;
+    src: url('../fonts/static/woff2/MinSans-Black.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinSans-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Sans';
+    font-weight: 700;
+    src: url('../fonts/static/woff2/MinSans-Bold.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Sans';
+    font-weight: 550;
+    src: url('../fonts/static/woff2/MinSans-Medium.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Sans';
+    font-weight: 400;
+    src: url('../fonts/static/woff2/MinSans-Regular.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Sans';
+    font-weight: 250;
+    src: url('../fonts/static/woff2/MinSans-Light.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Min Sans';
+    font-weight: 100;
+    src: url('../fonts/static/woff2/MinSans-Thin.woff2') format('woff2'),
+    url('../fonts/static/ttf/MinSans-Thin.ttf') format('truetype');
+}
