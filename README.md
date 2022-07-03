@@ -2,7 +2,7 @@
 
 
 
-🔗 **[Min Sans 다운로드](https://github.com/poposnail61/MinSans/releases/download/v1.2/fonts.zip)**
+🔗 **[Min Sans 다운로드](https://github.com/poposnail61/MinSans/releases/download/v1.3/fonts.zip)**
 <br><br>
 ✏️ **[Min Sans 써보기](https://poposnail61.github.io/write/)**
 <br><br>
@@ -22,7 +22,7 @@ Noto Sans의 불편한 점을 해결하기 위해 시작된 사이드 프로젝�
     | font-size | 9 | 11 | 12 | 14 | 15 | 17 | 18 | 20 | 24 | 36 | 48 | 72 | 96 |
     | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
     | line-height | 12 | 14 | 16 | 18 | 20 | 22 | 24 | 26 | 32 | 48 | 64 | 96 | 128 |
-- 사용성이 높은 6개의 폰트패밀리로 구성
+- 사용성이 높은 9개의 폰트패밀리로 구성
 - CJK문자 및 라틴계열 문자 세트 지원
 <br><br><br>
 
