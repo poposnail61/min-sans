@@ -1,8 +1,7 @@
 # MinSans
 
 
-
-🔗 **[Min Sans 다운로드](https://github.com/poposnail61/MinSans/releases/download/v1.3/fonts.zip)**
+🔗 **[Min Sans 다운로드](https://github.com/poposnail61/min-sans/releases/download/v1.3.1/fonts.zip)**
 <br><br>
 ✏️ **[Min Sans 써보기](https://poposnail61.github.io/write/)**
 <br><br>
