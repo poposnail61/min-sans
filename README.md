@@ -24,6 +24,33 @@ Min Sans는 한·중·일 문자와 라틴 문자, 숫자를 조화롭게 만든
 - CJK문자 및 라틴계열 문자 세트 지원
 <br><br><br>
 
+## 웹폰트
+
+---
+
+다이나믹 서브셋을 지원하여 적은 용량으로 Min Sans의 사용이 가능합니다.
+
+- Min Sans
+    
+    ```html
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsans-dynamic-subset.css">
+    ```
+    
+    ```css
+    @import url("https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsans-dynamic-subset.css");
+    ```
+    
+- Min Sans VF
+    
+    ```html
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsansvf-dynamic-subset.css">
+    ```
+    
+    ```css
+    @import url("https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsansvf-dynamic-subset.css");
+    ```
+<br><br><br>
+
 
 <img src="https://github.com/poposnail61/min-sans/blob/main/img01.jpg?raw=true">
 <img src="https://github.com/poposnail61/min-sans/blob/main/img02.jpg?raw=true">
