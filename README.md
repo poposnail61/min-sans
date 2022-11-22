@@ -32,7 +32,7 @@ Min Sans는 한·중·일 문자와 라틴 문자, 숫자를 조화롭게 만든
 - Min Sans
     
     ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsans-dynamic-subset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsans-dynamic-subset.css"/>
     ```
     
     ```css
@@ -42,7 +42,7 @@ Min Sans는 한·중·일 문자와 라틴 문자, 숫자를 조화롭게 만든
 - Min Sans VF
     
     ```html
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsansvf-dynamic-subset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsansvf-dynamic-subset.css"/>
     ```
     
     ```css
