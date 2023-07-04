@@ -1,0 +1,262 @@
+{
+color = 11;
+glyphname = y;
+kernLeft = v;
+kernRight = v;
+lastChange = "2022-04-17 21:24:59 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (414,0);
+},
+{
+name = top;
+pos = (284,505);
+}
+);
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,-4,l),
+(64,552,l),
+(28,552,l),
+(275,-31,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(259,-25,ls),
+(223,-110,o),
+(198,-161,o),
+(117,-166,cs),
+(71,-169,l),
+(74,-201,l),
+(122,-198,ls),
+(216,-192,o),
+(252,-129,o),
+(295,-25,c),
+(540,552,l),
+(503,552,l)
+);
+}
+);
+width = 566.45058;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (482,0);
+},
+{
+name = top;
+pos = (303,505);
+}
+);
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(333,163,l),
+(164,552,l),
+(-18,552,l),
+(230,-19,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(201,5,ls),
+(181,-41,o),
+(164,-60,o),
+(116,-65,cs),
+(59,-71,l),
+(72,-201,l),
+(123,-198,ls),
+(311,-187,o),
+(330,-119,o),
+(396,32,c),
+(625,552,l),
+(442,552,l)
+);
+}
+);
+width = 604.18168;
+}
+);
+unicode = 121;
+userData = {
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 502;
+y = 10;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 585;
+y = 181;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 241;
+y = 931;
+},
+{
+smooth = 0;
+x = 225;
+y = 966;
+},
+{
+smooth = 0;
+x = 201;
+y = 984;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 171;
+y = 984;
+},
+{
+smooth = 0;
+x = 117;
+y = 984;
+},
+{
+smooth = 0;
+x = 64;
+y = 936;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 91;
+y = 887;
+}
+);
+},
+{
+points = (
+{
+segmentType = curve;
+smooth = 1;
+x = 365;
+y = "-388";
+},
+{
+smooth = 0;
+x = 396;
+y = "-388";
+},
+{
+smooth = 0;
+x = 424;
+y = "-373";
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 442;
+y = "-334";
+},
+{
+segmentType = line;
+smooth = 1;
+x = 1009;
+y = 888;
+},
+{
+smooth = 0;
+x = 1013;
+y = 898;
+},
+{
+smooth = 0;
+x = 1016;
+y = 908;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1016;
+y = 918;
+},
+{
+smooth = 0;
+x = 1018;
+y = 962;
+},
+{
+smooth = 0;
+x = 978;
+y = 990;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 938;
+y = 990;
+},
+{
+smooth = 0;
+x = 910;
+y = 990;
+},
+{
+smooth = 0;
+x = 883;
+y = 977;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 866;
+y = 941;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 299;
+y = "-286";
+},
+{
+smooth = 0;
+x = 272;
+y = "-344";
+},
+{
+smooth = 0;
+x = 316;
+y = "-388";
+}
+);
+}
+);
+lib = {
+};
+name = y;
+unicodes = (
+);
+width = 1029;
+};
+};
+};
+}

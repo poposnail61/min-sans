@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = uniFF3C;
+lastChange = "2022-01-31 13:39:41 +0000";
+layers = (
+{
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(939,-95,l),
+(975,-59,l),
+(61,855,l),
+(25,819,l)
+);
+}
+);
+width = 1000;
+},
+{
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(934,-80,l),
+(960,-54,l),
+(66,840,l),
+(40,814,l)
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 65340;
+}

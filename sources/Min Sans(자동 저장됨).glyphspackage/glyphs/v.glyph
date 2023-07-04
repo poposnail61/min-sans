@@ -1,0 +1,226 @@
+{
+color = 11;
+glyphname = v;
+kernLeft = v;
+kernRight = v;
+lastChange = "2022-04-17 21:24:49 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (284,0);
+},
+{
+name = top;
+pos = (284,505);
+}
+);
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,0,l),
+(539,552,l),
+(497.994,552,l),
+(272,4,l),
+(296,4,l),
+(68,552,l),
+(28,552,l),
+(262,0,l)
+);
+}
+);
+width = 566.36585;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (305,0);
+},
+{
+name = top;
+pos = (305,505);
+}
+);
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(382,0,l),
+(624,552,l),
+(441,552,l),
+(287,174,l),
+(328,174,l),
+(178,552,l),
+(-17,552,l),
+(223,0,l)
+);
+}
+);
+width = 604.71637;
+}
+);
+unicode = 118;
+userData = {
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 518;
+y = 0;
+},
+{
+smooth = 0;
+x = 589;
+y = 0;
+},
+{
+smooth = 0;
+x = 618;
+y = 36;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 654;
+y = 121;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 979;
+y = 890;
+},
+{
+smooth = 0;
+x = 1000;
+y = 940;
+},
+{
+smooth = 0;
+x = 968;
+y = 991;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 907;
+y = 991;
+},
+{
+smooth = 0;
+x = 878;
+y = 991;
+},
+{
+smooth = 0;
+x = 850;
+y = 975;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 836;
+y = 940;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 518;
+y = 166;
+}
+);
+},
+{
+points = (
+{
+segmentType = curve;
+smooth = 0;
+x = 518;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 518;
+y = 166;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 200;
+y = 940;
+},
+{
+smooth = 0;
+x = 186;
+y = 975;
+},
+{
+smooth = 0;
+x = 158;
+y = 991;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 129;
+y = 991;
+},
+{
+smooth = 0;
+x = 68;
+y = 991;
+},
+{
+smooth = 0;
+x = 36;
+y = 940;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 57;
+y = 890;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 382;
+y = 121;
+},
+{
+smooth = 0;
+x = 418;
+y = 36;
+},
+{
+smooth = 0;
+x = 447;
+y = 0;
+}
+);
+}
+);
+lib = {
+};
+name = v;
+unicodes = (
+);
+width = 1027;
+};
+};
+};
+}

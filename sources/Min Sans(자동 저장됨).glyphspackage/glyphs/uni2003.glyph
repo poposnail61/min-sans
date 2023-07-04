@@ -1,0 +1,22 @@
+{
+color = 4;
+glyphname = uni2003;
+lastChange = "2022-01-31 13:38:59 +0000";
+layers = (
+{
+associatedMasterId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+layerId = "DC82060A-4736-4FDD-9A1C-E6584AA2EC54";
+name = Body;
+width = 1000;
+},
+{
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+width = 600;
+},
+{
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+width = 600;
+}
+);
+unicode = (8195,12288);
+}

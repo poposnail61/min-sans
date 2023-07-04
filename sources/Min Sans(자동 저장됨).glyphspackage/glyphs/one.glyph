@@ -1,0 +1,83 @@
+{
+glyphname = one;
+kernLeft = one;
+kernRight = one;
+lastChange = "2022-04-17 21:31:29 +0000";
+layers = (
+{
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(352,15,l),
+(352,736,l),
+(326,736,l),
+(160,622,l),
+(181,598,l),
+(341,708,l),
+(318,708,l),
+(318,15,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(517,0,l),
+(517,32,l),
+(155,32,l),
+(155,0,l)
+);
+}
+);
+width = 628;
+},
+{
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(444,84,l),
+(444,736,l),
+(314,736,l),
+(70,596,l),
+(135,464,l),
+(345,583,l),
+(260,587,l),
+(260,84,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(604,0,l),
+(604,148,l),
+(100,148,l),
+(100,0,l)
+);
+}
+);
+width = 628;
+}
+);
+unicode = 49;
+userData = {
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+);
+lib = {
+};
+name = one;
+unicodes = (
+);
+width = 1160;
+};
+};
+};
+}

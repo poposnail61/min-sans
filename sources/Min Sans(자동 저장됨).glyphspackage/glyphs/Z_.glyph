@@ -1,0 +1,306 @@
+{
+color = 11;
+glyphname = Z;
+kernLeft = Z;
+kernRight = Z;
+lastChange = "2022-04-17 21:23:23 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (300,0);
+},
+{
+name = top;
+pos = (299,736);
+}
+);
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,704,l),
+(518,704,l),
+(504.581,724.714,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "212.87134";
+};
+}),
+(50,25,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(50,0,l),
+(548,0,l),
+(548,32,l),
+(66,32,l),
+(79.419,11.286,l),
+(534,711,l),
+(534,736,l),
+(50,736,l)
+);
+}
+);
+width = 571.64742;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (321,0);
+},
+{
+name = top;
+pos = (321,736);
+}
+);
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,580,l),
+(510,580,l),
+(447.542,672.722,l),
+(46,136,l),
+(46,0,l),
+(604,0,l),
+(604,156,l),
+(124,156,l),
+(186.458,63.278,l),
+(588,600,l),
+(588,736,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(46,736,l)
+);
+}
+);
+width = 624;
+}
+);
+unicode = 90;
+userData = {
+anchors = (
+);
+b = {
+};
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = curve;
+smooth = 1;
+x = 266;
+y = 0;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 1035;
+y = 0;
+},
+{
+smooth = 0;
+x = 1084;
+y = 0;
+},
+{
+smooth = 0;
+x = 1108;
+y = 34;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1108;
+y = 71;
+},
+{
+smooth = 0;
+x = 1108;
+y = 107;
+},
+{
+smooth = 0;
+x = 1084;
+y = 141;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1035;
+y = 141;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 356;
+y = 141;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 356;
+y = 665;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 975;
+y = 665;
+},
+{
+smooth = 0;
+x = 1024;
+y = 665;
+},
+{
+smooth = 0;
+x = 1049;
+y = 698;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1049;
+y = 734;
+},
+{
+smooth = 0;
+x = 1049;
+y = 770;
+},
+{
+smooth = 0;
+x = 1026;
+y = 803;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 975;
+y = 803;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 356;
+y = 803;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 356;
+y = 1285;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 1007;
+y = 1285;
+},
+{
+smooth = 0;
+x = 1056;
+y = 1285;
+},
+{
+smooth = 0;
+x = 1080;
+y = 1319;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1080;
+y = 1356;
+},
+{
+smooth = 0;
+x = 1080;
+y = 1392;
+},
+{
+smooth = 0;
+x = 1056;
+y = 1426;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1007;
+y = 1426;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 261;
+y = 1426;
+},
+{
+smooth = 0;
+x = 213;
+y = 1426;
+},
+{
+smooth = 0;
+x = 178;
+y = 1383;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 178;
+y = 1340;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 178;
+y = 86;
+},
+{
+smooth = 0;
+x = 178;
+y = 41;
+},
+{
+smooth = 0;
+x = 222;
+y = 0;
+}
+);
+}
+);
+lib = {
+};
+name = Z;
+unicodes = (
+);
+width = 1165;
+};
+};
+components = (
+);
+contours = (
+);
+lib = {
+};
+name = Z;
+unicodes = (
+);
+width = 1222;
+};
+}

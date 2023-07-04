@@ -1,0 +1,179 @@
+{
+color = 11;
+glyphname = l.ss02;
+kernLeft = h;
+kernRight = lalt;
+lastChange = "2022-01-31 14:04:10 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (117,0);
+},
+{
+name = center;
+pos = (117,409);
+},
+{
+name = dot;
+pos = (226,409);
+},
+{
+name = top;
+pos = (117,736);
+},
+{
+name = topright;
+pos = (192,736);
+}
+);
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,0,l),
+(134,736,l),
+(101,736,l),
+(101,0,l)
+);
+}
+);
+width = 233.03818;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (155,0);
+},
+{
+name = center;
+pos = (155,401);
+},
+{
+name = dot;
+pos = (397,401);
+},
+{
+name = top;
+pos = (155,736);
+},
+{
+name = topright;
+pos = (286,736);
+}
+);
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(247,0,l),
+(247,736,l),
+(62,736,l),
+(62,0,l)
+);
+}
+);
+width = 307.71455;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (117,0);
+},
+{
+name = center;
+pos = (117,409);
+},
+{
+name = dot;
+pos = (226,409);
+},
+{
+name = top;
+pos = (117,736);
+},
+{
+name = topright;
+pos = (192,736);
+}
+);
+associatedMasterId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+layerId = "81293E3F-4823-4637-BC73-D481B65F340E";
+name = Thin;
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,0,l),
+(134,736,l),
+(101,736,l),
+(101,0,l)
+);
+}
+);
+width = 233.03818;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (155,0);
+},
+{
+name = center;
+pos = (155,401);
+},
+{
+name = dot;
+pos = (397,401);
+},
+{
+name = top;
+pos = (155,736);
+},
+{
+name = topright;
+pos = (286,736);
+}
+);
+associatedMasterId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+layerId = "570228A7-C191-4E7C-B24B-CD9498E1B2AE";
+name = Black;
+shapes = (
+{
+closed = 1;
+nodes = (
+(247,0,l),
+(247,736,l),
+(62,736,l),
+(62,0,l)
+);
+}
+);
+width = 307.71455;
+}
+);
+userData = {
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+);
+lib = {
+};
+name = l;
+unicodes = (
+);
+width = 511;
+};
+};
+};
+}

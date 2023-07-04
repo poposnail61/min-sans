@@ -1,0 +1,346 @@
+{
+color = 11;
+glyphname = G;
+kernLeft = O;
+kernRight = O;
+lastChange = "2022-04-17 21:22:18 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (373,0);
+},
+{
+name = top;
+pos = (373,736);
+}
+);
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(461,712,o),
+(539,678,o),
+(589,617,c),
+(609,647,l,{
+"Letterink-NibData" = {
+AngleInDegrees = "318.75174";
+};
+}),
+(555,707,o),
+(465,744,o),
+(373,744,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(184,744,o),
+(68,601,o),
+(68,368,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(68,135,o),
+(184,-8,o),
+(373,-8,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(552,-8,o),
+(662,127,o),
+(662,347,cs),
+(662,373,l),
+(373,373,l),
+(373,347,l),
+(630,347,l),
+(630,140,o),
+(537,24,o),
+(373,24,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(201,24,o),
+(104,148,o),
+(104,368,cs),
+(104,588,o),
+(201,712,o),
+(373,712,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+})
+);
+}
+);
+width = 730;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (404,0);
+},
+{
+name = top;
+pos = (404,736);
+}
+);
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(461,592,o),
+(529,567,o),
+(588,524,c),
+(642,667,l),
+(596,716,o),
+(503,748,o),
+(404,748,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "270";
+};
+}),
+(187,748,o),
+(48,600,o),
+(48,368,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "180";
+};
+}),
+(48,136,o),
+(187,-12,o),
+(404,-12,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+}),
+(599,-12,o),
+(724,107,o),
+(724,292,cs),
+(724,428,l),
+(404,428,l),
+(404,292,l),
+(540,292,l),
+(540,199,o),
+(490,144,o),
+(404,144,cs),
+(303,144,o),
+(244,227,o),
+(244,368,cs),
+(244,509,o),
+(303,592,o),
+(404,592,cs,{
+"Letterink-NibData" = {
+AngleInDegrees = "90";
+};
+})
+);
+}
+);
+width = 772;
+}
+);
+unicode = 71;
+userData = {
+anchors = (
+);
+b = {
+};
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = curve;
+smooth = 1;
+x = 783;
+y = "-22";
+},
+{
+smooth = 0;
+x = 965;
+y = "-22";
+},
+{
+smooth = 0;
+x = 1086;
+y = 34;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1166;
+y = 86;
+},
+{
+smooth = 0;
+x = 1270;
+y = 154;
+},
+{
+smooth = 0;
+x = 1186;
+y = 258;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1112;
+y = 214;
+},
+{
+smooth = 0;
+x = 1024;
+y = 162;
+},
+{
+smooth = 0;
+x = 939;
+y = 120;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 806;
+y = 120;
+},
+{
+smooth = 0;
+x = 446;
+y = 120;
+},
+{
+smooth = 0;
+x = 316;
+y = 406;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 316;
+y = 706;
+},
+{
+smooth = 0;
+x = 316;
+y = 1005;
+},
+{
+smooth = 0;
+x = 450;
+y = 1296;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 801;
+y = 1296;
+},
+{
+smooth = 0;
+x = 980;
+y = 1296;
+},
+{
+smooth = 0;
+x = 1053;
+y = 1246;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1094;
+y = 1225;
+},
+{
+smooth = 0;
+x = 1174;
+y = 1184;
+},
+{
+smooth = 0;
+x = 1231;
+y = 1300;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 1156;
+y = 1343;
+},
+{
+smooth = 0;
+x = 1106;
+y = 1372;
+},
+{
+smooth = 0;
+x = 995;
+y = 1438;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 797;
+y = 1438;
+},
+{
+smooth = 0;
+x = 359;
+y = 1438;
+},
+{
+smooth = 0;
+x = 128;
+y = 1093;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 128;
+y = 704;
+},
+{
+smooth = 0;
+x = 128;
+y = 307;
+},
+{
+smooth = 0;
+x = 350;
+y = "-22";
+}
+);
+}
+);
+lib = {
+};
+name = G;
+unicodes = (
+);
+width = 1448;
+};
+};
+components = (
+);
+contours = (
+);
+lib = {
+};
+name = G;
+unicodes = (
+);
+width = 1538;
+};
+}

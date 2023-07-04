@@ -1,0 +1,238 @@
+{
+color = 11;
+glyphname = k;
+kernLeft = h;
+kernRight = k;
+lastChange = "2022-04-17 21:24:09 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (259,0);
+},
+{
+name = top;
+pos = (311,736);
+}
+);
+layerId = "BD421374-7BB0-4447-A555-0F47AA5545D5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(212,311,l),
+(473,0,l),
+(516,0,l),
+(232,339,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(483,552,l),
+(437,552,l),
+(125,236,l),
+(134,232,l),
+(134,736,l),
+(100,736,l),
+(100,0,l),
+(134,0,l),
+(134,212,l),
+(125,190,l)
+);
+}
+);
+width = 518.00545;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (320,0);
+},
+{
+name = top;
+pos = (341,736);
+}
+);
+layerId = "4D0470F8-723D-4610-9591-64877B13A03C";
+shapes = (
+{
+closed = 1;
+nodes = (
+(302,200,l),
+(458,0,l),
+(671,0,l),
+(414,329,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(661,552,l),
+(432,552,l),
+(238,344,l),
+(246,340,l),
+(246,736,l),
+(62,736,l),
+(62,0,l),
+(246,0,l),
+(246,122,l),
+(238,100,l)
+);
+}
+);
+width = 640.32919;
+}
+);
+unicode = 107;
+userData = {
+com.typemytype.robofont.layerData = {
+b = {
+anchors = (
+);
+components = (
+);
+contours = (
+{
+points = (
+{
+segmentType = line;
+smooth = 0;
+x = 318;
+y = 536;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 793;
+y = 27;
+},
+{
+smooth = 0;
+x = 809;
+y = 9;
+},
+{
+smooth = 0;
+x = 828;
+y = 1;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 845;
+y = 1;
+},
+{
+smooth = 0;
+x = 883;
+y = 1;
+},
+{
+smooth = 0;
+x = 922;
+y = 33;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 922;
+y = 71;
+},
+{
+smooth = 0;
+x = 922;
+y = 84;
+},
+{
+smooth = 0;
+x = 918;
+y = 99;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 906;
+y = 112;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 492;
+y = 554;
+},
+{
+segmentType = line;
+smooth = 1;
+x = 873;
+y = 889;
+},
+{
+smooth = 0;
+x = 888;
+y = 902;
+},
+{
+smooth = 0;
+x = 894;
+y = 918;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 894;
+y = 933;
+},
+{
+smooth = 0;
+x = 894;
+y = 968;
+},
+{
+smooth = 0;
+x = 858;
+y = 1002;
+},
+{
+segmentType = curve;
+smooth = 1;
+x = 821;
+y = 1002;
+},
+{
+smooth = 0;
+x = 802;
+y = 1002;
+},
+{
+smooth = 0;
+x = 785;
+y = 994;
+},
+{
+segmentType = curve;
+smooth = 0;
+x = 770;
+y = 979;
+},
+{
+segmentType = line;
+smooth = 0;
+x = 318;
+y = 574;
+}
+);
+}
+);
+lib = {
+};
+name = k;
+unicodes = (
+);
+width = 984;
+};
+};
+};
+}
