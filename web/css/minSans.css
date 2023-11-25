@@ -1,6 +1,8 @@
 @font-face {
   font-family: "Min Sans VF";
-  src: url("../fonts/variable/MinSansVF.woff2") format("woff2");
+  src: url("../fonts/variable/MinSansVF.woff2") format("woff2-variations");
+  font-weight: 100 900;
+	font-style: normal;
 }
 
 @font-face {
