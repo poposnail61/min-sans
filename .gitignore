@@ -1,24 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/fontforge,macos,windows,linux,font
 # Edit at https://www.toptal.com/developers/gitignore?templates=fontforge,macos,windows,linux,font
 
-### Font ###
-*.fnt
-*.fon
-*.otf
-*.ttf
-
-### FontForge ###
-*.sfd-*
-*.sfd~
-
-# No Binaries
-
-*.ttc
-*.woff
-*.pfb
-*.pfa
-*.pt3
-*.suit
 
 ### Linux ###
 *~
